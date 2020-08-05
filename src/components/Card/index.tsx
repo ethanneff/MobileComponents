@@ -1,6 +1,6 @@
 import React, { memo } from "react";
 import { StyleSheet, View, ViewStyle } from "react-native";
-import Theme, { colorWithOpacity } from "../../commons/Theme";
+import Theme from "../../commons/Theme";
 import Device from "react-native-device-detection";
 
 const isTablet = Device.isTablet;
@@ -22,7 +22,7 @@ const Card: React.FC<Props> = memo(function CardMemo({
   const styles = StyleSheet.create({
     container: {
       borderRadius: Theme.padding.p3,
-      backgroundColor: colorWithOpacity(color, opacity),
+      backgroundColor: color,
       width: "80%",
       alignSelf: "center",
       marginVertical: Theme.padding.p1,
