@@ -1,0 +1,884 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dialog component renders correctly with defaults and hidden 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <TouchableWithoutFeedback>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "hsla(200, 19%, 18%, 0.8)",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "paddingVertical": 16,
+        }
+      }
+    >
+      <TouchableWithoutFeedback>
+        <View
+          style={
+            Object {
+              "backgroundColor": "hsl(255, 100%, 100%)",
+              "borderRadius": 6,
+              "elevation": 3,
+              "maxWidth": 500,
+              "padding": 16,
+              "shadowColor": "hsla(200, 19%, 18%, 0.8)",
+              "shadowOffset": Object {
+                "height": 2,
+                "width": 0,
+              },
+              "shadowOpacity": 0.2,
+              "shadowRadius": 1,
+              "width": "80%",
+              "zIndex": 3,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            style={
+              Array [
+                Array [
+                  Object {
+                    "color": "hsl(200, 19%, 18%)",
+                    "fontFamily": "BrandonText-Medium",
+                    "fontSize": 22,
+                    "letterSpacing": 0,
+                    "lineHeight": 28,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "paddingBottom": 12,
+                  },
+                ],
+                undefined,
+              ]
+            }
+            textBreakStrategy="simple"
+          >
+            bob
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "paddingTop": 32,
+                },
+                undefined,
+              ]
+            }
+          />
+        </View>
+      </TouchableWithoutFeedback>
+    </View>
+  </TouchableWithoutFeedback>
+</Modal>
+`;
+
+exports[`Dialog component renders correctly with defaults and visible 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  transparent={true}
+  visible={true}
+>
+  <TouchableWithoutFeedback>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "hsla(200, 19%, 18%, 0.8)",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "paddingVertical": 16,
+        }
+      }
+    >
+      <TouchableWithoutFeedback>
+        <View
+          style={
+            Object {
+              "backgroundColor": "hsl(255, 100%, 100%)",
+              "borderRadius": 6,
+              "elevation": 3,
+              "maxWidth": 500,
+              "padding": 16,
+              "shadowColor": "hsla(200, 19%, 18%, 0.8)",
+              "shadowOffset": Object {
+                "height": 2,
+                "width": 0,
+              },
+              "shadowOpacity": 0.2,
+              "shadowRadius": 1,
+              "width": "80%",
+              "zIndex": 3,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            style={
+              Array [
+                Array [
+                  Object {
+                    "color": "hsl(200, 19%, 18%)",
+                    "fontFamily": "BrandonText-Medium",
+                    "fontSize": 22,
+                    "letterSpacing": 0,
+                    "lineHeight": 28,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "paddingBottom": 12,
+                  },
+                ],
+                undefined,
+              ]
+            }
+            textBreakStrategy="simple"
+          >
+            bob
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "paddingTop": 32,
+                },
+                undefined,
+              ]
+            }
+          />
+        </View>
+      </TouchableWithoutFeedback>
+    </View>
+  </TouchableWithoutFeedback>
+</Modal>
+`;
+
+exports[`Dialog component renders correctly with props 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  onRequestClose={[MockFunction]}
+  transparent={true}
+  visible={true}
+>
+  <TouchableWithoutFeedback
+    onPress={[MockFunction]}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "hsla(200, 19%, 18%, 0.8)",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "paddingVertical": 16,
+        }
+      }
+    >
+      <TouchableWithoutFeedback>
+        <View
+          style={
+            Object {
+              "backgroundColor": "hsl(255, 100%, 100%)",
+              "borderRadius": 6,
+              "elevation": 3,
+              "maxWidth": 500,
+              "padding": 16,
+              "shadowColor": "hsla(200, 19%, 18%, 0.8)",
+              "shadowOffset": Object {
+                "height": 2,
+                "width": 0,
+              },
+              "shadowOpacity": 0.2,
+              "shadowRadius": 1,
+              "width": "80%",
+              "zIndex": 3,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            style={
+              Array [
+                Array [
+                  Object {
+                    "color": "hsl(200, 19%, 18%)",
+                    "fontFamily": "BrandonText-Medium",
+                    "fontSize": 22,
+                    "letterSpacing": 0,
+                    "lineHeight": 28,
+                  },
+                  Object {
+                    "textAlign": "center",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "paddingBottom": 12,
+                  },
+                ],
+                undefined,
+              ]
+            }
+            textBreakStrategy="simple"
+          >
+            nope
+          </Text>
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            style={
+              Array [
+                Array [
+                  Object {
+                    "color": "hsl(200, 19%, 18%)",
+                    "fontFamily": "BrandonText-Regular",
+                    "fontSize": 17,
+                    "letterSpacing": 0,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                ],
+                undefined,
+              ]
+            }
+            textBreakStrategy="simple"
+          >
+            yep
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "paddingTop": 32,
+                },
+                Object {
+                  "display": "none",
+                },
+              ]
+            }
+          >
+            <TouchableOpacity
+              accessibilityRole="button"
+              activeOpacity={0.2}
+              onPress={[MockFunction]}
+              style={
+                Array [
+                  Object {
+                    "borderRadius": 6,
+                    "justifyContent": "center",
+                    "padding": 12,
+                  },
+                  undefined,
+                  Object {
+                    "backgroundColor": "hsl(204, 15%, 94%)",
+                    "borderColor": "hsl(204, 15%, 94%)",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Array [
+                    Object {
+                      "marginBottom": 16,
+                    },
+                  ],
+                ]
+              }
+              testID="dialogConfirmButton"
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  style={
+                    Array [
+                      Array [
+                        Object {
+                          "color": "hsl(200, 19%, 18%)",
+                          "fontFamily": "BrandonText-Bold",
+                          "fontSize": 15,
+                          "letterSpacing": 0.5,
+                          "lineHeight": 20,
+                        },
+                        Object {
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        Object {
+                          "fontFamily": "BrandonText-Bold",
+                        },
+                        undefined,
+                        undefined,
+                        undefined,
+                        undefined,
+                      ],
+                      undefined,
+                    ]
+                  }
+                  textBreakStrategy="simple"
+                >
+                  DOG
+                </Text>
+              </View>
+            </TouchableOpacity>
+            <TouchableOpacity
+              accessibilityRole="button"
+              activeOpacity={0.2}
+              onPress={[MockFunction]}
+              style={
+                Array [
+                  Object {
+                    "borderRadius": 6,
+                    "justifyContent": "center",
+                    "padding": 12,
+                  },
+                  undefined,
+                  Object {
+                    "backgroundColor": "hsl(179, 58%, 67%)",
+                    "borderColor": "hsl(179, 58%, 67%)",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "alignSelf": "center",
+                    "width": "100%",
+                  },
+                ]
+              }
+              testID="dialogCancelButton"
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  style={
+                    Array [
+                      Array [
+                        Object {
+                          "color": "hsl(200, 19%, 18%)",
+                          "fontFamily": "BrandonText-Bold",
+                          "fontSize": 15,
+                          "letterSpacing": 0.5,
+                          "lineHeight": 20,
+                        },
+                        Object {
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        Object {
+                          "fontFamily": "BrandonText-Bold",
+                        },
+                        undefined,
+                        undefined,
+                        undefined,
+                        undefined,
+                      ],
+                      undefined,
+                    ]
+                  }
+                  textBreakStrategy="simple"
+                >
+                  BIRD
+                </Text>
+              </View>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </TouchableWithoutFeedback>
+    </View>
+  </TouchableWithoutFeedback>
+</Modal>
+`;
+
+exports[`Dialog component renders dialog to show double buttons beside each other 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  onRequestClose={[MockFunction]}
+  transparent={true}
+  visible={true}
+>
+  <TouchableWithoutFeedback
+    onPress={[MockFunction]}
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "hsla(200, 19%, 18%, 0.8)",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "paddingVertical": 16,
+        }
+      }
+    >
+      <TouchableWithoutFeedback>
+        <View
+          style={
+            Object {
+              "backgroundColor": "hsl(255, 100%, 100%)",
+              "borderRadius": 6,
+              "elevation": 3,
+              "maxWidth": 500,
+              "padding": 16,
+              "shadowColor": "hsla(200, 19%, 18%, 0.8)",
+              "shadowOffset": Object {
+                "height": 2,
+                "width": 0,
+              },
+              "shadowOpacity": 0.2,
+              "shadowRadius": 1,
+              "width": "80%",
+              "zIndex": 3,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            style={
+              Array [
+                Array [
+                  Object {
+                    "color": "hsl(200, 19%, 18%)",
+                    "fontFamily": "BrandonText-Medium",
+                    "fontSize": 22,
+                    "letterSpacing": 0,
+                    "lineHeight": 28,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "paddingBottom": 12,
+                  },
+                ],
+                undefined,
+              ]
+            }
+            textBreakStrategy="simple"
+          >
+            bob
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "paddingTop": 32,
+                },
+                Object {
+                  "display": "none",
+                },
+              ]
+            }
+          >
+            <TouchableOpacity
+              accessibilityRole="button"
+              activeOpacity={0.2}
+              onPress={[MockFunction]}
+              style={
+                Array [
+                  Object {
+                    "borderRadius": 6,
+                    "justifyContent": "center",
+                    "padding": 12,
+                  },
+                  undefined,
+                  Object {
+                    "backgroundColor": "hsl(204, 15%, 94%)",
+                    "borderColor": "hsl(204, 15%, 94%)",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Array [
+                    Object {
+                      "marginBottom": 16,
+                    },
+                  ],
+                ]
+              }
+              testID="dialogConfirmButton"
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  style={
+                    Array [
+                      Array [
+                        Object {
+                          "color": "hsl(200, 19%, 18%)",
+                          "fontFamily": "BrandonText-Bold",
+                          "fontSize": 15,
+                          "letterSpacing": 0.5,
+                          "lineHeight": 20,
+                        },
+                        Object {
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        Object {
+                          "fontFamily": "BrandonText-Bold",
+                        },
+                        undefined,
+                        undefined,
+                        undefined,
+                        undefined,
+                      ],
+                      undefined,
+                    ]
+                  }
+                  textBreakStrategy="simple"
+                >
+                  YES
+                </Text>
+              </View>
+            </TouchableOpacity>
+            <TouchableOpacity
+              accessibilityRole="button"
+              activeOpacity={0.2}
+              onPress={[MockFunction]}
+              style={
+                Array [
+                  Object {
+                    "borderRadius": 6,
+                    "justifyContent": "center",
+                    "padding": 12,
+                  },
+                  undefined,
+                  Object {
+                    "backgroundColor": "hsl(179, 58%, 67%)",
+                    "borderColor": "hsl(179, 58%, 67%)",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "alignSelf": "center",
+                    "width": "100%",
+                  },
+                ]
+              }
+              testID="dialogCancelButton"
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  style={
+                    Array [
+                      Array [
+                        Object {
+                          "color": "hsl(200, 19%, 18%)",
+                          "fontFamily": "BrandonText-Bold",
+                          "fontSize": 15,
+                          "letterSpacing": 0.5,
+                          "lineHeight": 20,
+                        },
+                        Object {
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        Object {
+                          "fontFamily": "BrandonText-Bold",
+                        },
+                        undefined,
+                        undefined,
+                        undefined,
+                        undefined,
+                      ],
+                      undefined,
+                    ]
+                  }
+                  textBreakStrategy="simple"
+                >
+                  NO
+                </Text>
+              </View>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </TouchableWithoutFeedback>
+    </View>
+  </TouchableWithoutFeedback>
+</Modal>
+`;
+
+exports[`Dialog component renders dialog to show single button in center 1`] = `
+<Modal
+  hardwareAccelerated={false}
+  onRequestClose={[MockFunction]}
+  transparent={true}
+  visible={true}
+>
+  <TouchableWithoutFeedback>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "hsla(200, 19%, 18%, 0.8)",
+          "flex": 1,
+          "flexDirection": "column",
+          "justifyContent": "center",
+          "paddingVertical": 16,
+        }
+      }
+    >
+      <TouchableWithoutFeedback>
+        <View
+          style={
+            Object {
+              "backgroundColor": "hsl(255, 100%, 100%)",
+              "borderRadius": 6,
+              "elevation": 3,
+              "maxWidth": 500,
+              "padding": 16,
+              "shadowColor": "hsla(200, 19%, 18%, 0.8)",
+              "shadowOffset": Object {
+                "height": 2,
+                "width": 0,
+              },
+              "shadowOpacity": 0.2,
+              "shadowRadius": 1,
+              "width": "80%",
+              "zIndex": 3,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            style={
+              Array [
+                Array [
+                  Object {
+                    "color": "hsl(200, 19%, 18%)",
+                    "fontFamily": "BrandonText-Medium",
+                    "fontSize": 22,
+                    "letterSpacing": 0,
+                    "lineHeight": 28,
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "paddingBottom": 12,
+                  },
+                ],
+                undefined,
+              ]
+            }
+            textBreakStrategy="simple"
+          >
+            bob
+          </Text>
+          <View
+            style={
+              Array [
+                Object {
+                  "flexDirection": "column",
+                  "justifyContent": "center",
+                  "paddingTop": 32,
+                },
+                Object {
+                  "display": "none",
+                },
+              ]
+            }
+          >
+            <TouchableOpacity
+              accessibilityRole="button"
+              activeOpacity={0.2}
+              onPress={[MockFunction]}
+              style={
+                Array [
+                  Object {
+                    "borderRadius": 6,
+                    "justifyContent": "center",
+                    "padding": 12,
+                  },
+                  undefined,
+                  Object {
+                    "backgroundColor": "hsl(179, 58%, 67%)",
+                    "borderColor": "hsl(179, 58%, 67%)",
+                  },
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  undefined,
+                  Object {
+                    "alignSelf": "center",
+                    "width": "100%",
+                  },
+                ]
+              }
+              testID="dialogCancelButton"
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "flexDirection": "row",
+                      "justifyContent": "center",
+                    },
+                    undefined,
+                    undefined,
+                  ]
+                }
+              >
+                <Text
+                  accessible={true}
+                  allowFontScaling={true}
+                  style={
+                    Array [
+                      Array [
+                        Object {
+                          "color": "hsl(200, 19%, 18%)",
+                          "fontFamily": "BrandonText-Bold",
+                          "fontSize": 15,
+                          "letterSpacing": 0.5,
+                          "lineHeight": 20,
+                        },
+                        Object {
+                          "textAlign": "center",
+                        },
+                        undefined,
+                        Object {
+                          "fontFamily": "BrandonText-Bold",
+                        },
+                        undefined,
+                        undefined,
+                        undefined,
+                        undefined,
+                      ],
+                      undefined,
+                    ]
+                  }
+                  textBreakStrategy="simple"
+                >
+                  NO
+                </Text>
+              </View>
+            </TouchableOpacity>
+          </View>
+        </View>
+      </TouchableWithoutFeedback>
+    </View>
+  </TouchableWithoutFeedback>
+</Modal>
+`;

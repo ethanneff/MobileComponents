@@ -1,0 +1,1170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Radio Component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "hsl(179, 58%, 67%)",
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            false,
+          ],
+        ]
+      }
+      testID="radio-1"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Bold",
+                },
+                undefined,
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          BOB
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            Object {
+              "marginTop": 8,
+            },
+          ],
+        ]
+      }
+      testID="radio-2"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          STEVE
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            Object {
+              "marginTop": 8,
+            },
+          ],
+        ]
+      }
+      testID="radio-3"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          JILL
+        </Text>
+      </View>
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        Object {
+          "justifyContent": "space-between",
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Radio Component renders horizontally correctly 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+      ]
+    }
+  >
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          Object {
+            "borderBottomRightRadius": 2,
+            "borderTopRightRadius": 2,
+            "padding": 12,
+          },
+          Object {
+            "backgroundColor": "hsl(179, 58%, 67%)",
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            false,
+          ],
+        ]
+      }
+      testID="radio-1"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Bold",
+                },
+                undefined,
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          BOB
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          Object {
+            "borderLeftWidth": 0,
+            "borderRadius": 0,
+            "padding": 12,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            false,
+          ],
+        ]
+      }
+      testID="radio-2"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          STEVE
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          Object {
+            "borderBottomLeftRadius": 0,
+            "borderLeftWidth": 0,
+            "borderTopLeftRadius": 0,
+            "padding": 12,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            false,
+          ],
+        ]
+      }
+      testID="radio-3"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          JILL
+        </Text>
+      </View>
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        Object {
+          "justifyContent": "space-between",
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Radio Component renders min and max text correctly 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "hsl(179, 58%, 67%)",
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            false,
+          ],
+        ]
+      }
+      testID="radio-1"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Bold",
+                },
+                undefined,
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          BOB
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            Object {
+              "marginTop": 8,
+            },
+          ],
+        ]
+      }
+      testID="radio-2"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          STEVE
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            Object {
+              "marginTop": 8,
+            },
+          ],
+        ]
+      }
+      testID="radio-3"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          JILL
+        </Text>
+      </View>
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        Object {
+          "justifyContent": "space-between",
+        },
+        Object {
+          "marginTop": 16,
+        },
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`Radio Component renders nothing when hidden 1`] = `null`;
+
+exports[`Radio Component renders nothing when invisible 1`] = `
+<View
+  style={
+    Object {
+      "opacity": 0,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        undefined,
+      ]
+    }
+  >
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "hsl(179, 58%, 67%)",
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            false,
+          ],
+        ]
+      }
+      testID="radio-1"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Bold",
+                },
+                undefined,
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          BOB
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            Object {
+              "marginTop": 8,
+            },
+          ],
+        ]
+      }
+      testID="radio-2"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          STEVE
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      accessibilityRole="button"
+      activeOpacity={0.2}
+      onPress={[Function]}
+      style={
+        Array [
+          Object {
+            "borderRadius": 6,
+            "justifyContent": "center",
+            "padding": 16,
+          },
+          Object {
+            "backgroundColor": "hsl(204, 15%, 94%)",
+            "borderBottomWidth": 1,
+            "borderColor": "hsl(198, 16%, 84%)",
+            "borderLeftWidth": 1,
+            "borderRadius": 6,
+            "borderRightWidth": 1,
+            "borderTopWidth": 1,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "flex": 1,
+            },
+            Object {
+              "marginTop": 8,
+            },
+          ],
+        ]
+      }
+      testID="radio-3"
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "justifyContent": "center",
+            },
+            undefined,
+            undefined,
+          ]
+        }
+      >
+        <Text
+          accessible={true}
+          allowFontScaling={true}
+          style={
+            Array [
+              Array [
+                Object {
+                  "color": "hsl(199, 18%, 33%)",
+                  "fontFamily": "BrandonText-Regular",
+                  "fontSize": 18,
+                  "letterSpacing": 0,
+                  "lineHeight": 24,
+                },
+                Object {
+                  "textAlign": "center",
+                },
+                undefined,
+                undefined,
+                Object {
+                  "fontFamily": "BrandonText-Regular",
+                },
+                undefined,
+                undefined,
+                undefined,
+              ],
+              undefined,
+            ]
+          }
+          textBreakStrategy="simple"
+        >
+          JILL
+        </Text>
+      </View>
+    </TouchableOpacity>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        Object {
+          "justifyContent": "space-between",
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;

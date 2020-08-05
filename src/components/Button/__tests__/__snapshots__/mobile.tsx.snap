@@ -1,0 +1,1479 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component renders correctly with alignLeft 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        Object {
+          "justifyContent": "flex-start",
+        },
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with alignRight 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        Object {
+          "justifyContent": "flex-end",
+        },
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with background 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(255, 100%, 100%)",
+        "borderColor": "hsl(255, 100%, 100%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with bold 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Regular",
+            },
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with circle 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      Object {
+        "borderRadius": 80,
+        "height": 56,
+        "width": 56,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with clear 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            Object {
+              "color": "hsl(255, 100%, 100%)",
+            },
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with disable 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.5}
+  disabled={true}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      Object {
+        "opacity": 0.5,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with fabCircle 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      Object {
+        "borderRadius": 48,
+        "height": 64,
+        "width": 64,
+      },
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with half 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      Object {
+        "alignSelf": "center",
+        "width": "80%",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with icon 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "hsl(199, 18%, 33%)",
+              "fontSize": 24,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with icon title 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <View>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "color": "hsl(199, 18%, 33%)",
+              "fontSize": 24,
+            },
+            undefined,
+            Object {
+              "fontFamily": "Material Design Icons",
+              "fontStyle": "normal",
+              "fontWeight": "normal",
+            },
+            Object {},
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with invisible 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      Object {
+        "opacity": 0,
+      },
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with loading 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <View
+      testID="mockProgressCircle"
+    >
+      <Text>
+        Mock Progress Circle
+      </Text>
+      <Text
+        testID="mockProgressCircleProps"
+      >
+        {"borderWidth":2,"color":"hsl(200, 19%, 18%)","size":20,"indeterminate":true}
+      </Text>
+    </View>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with nonFlex 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      Object {
+        "alignSelf": "center",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with nonflex 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      Object {
+        "alignSelf": "center",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with primary 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with secondary 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(204, 15%, 94%)",
+        "borderColor": "hsl(204, 15%, 94%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with styleSpinnerColor 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders correctly with title 1`] = `
+<TouchableOpacity
+  accessibilityRole="button"
+  activeOpacity={0.2}
+  onPress={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 6,
+        "justifyContent": "center",
+        "padding": 12,
+      },
+      undefined,
+      Object {
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderColor": "hsl(179, 58%, 67%)",
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        undefined,
+        undefined,
+      ]
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Bold",
+              "fontSize": 15,
+              "letterSpacing": 0.5,
+              "lineHeight": 20,
+            },
+            Object {
+              "textAlign": "center",
+            },
+            undefined,
+            Object {
+              "fontFamily": "BrandonText-Bold",
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      PRESS
+    </Text>
+  </View>
+</TouchableOpacity>
+`;
+
+exports[`Button Component renders hidden spinner 1`] = `null`;

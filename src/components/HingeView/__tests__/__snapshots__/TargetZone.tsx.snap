@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TargetZone Component renders correctly 1`] = `
+<RNSVGPath
+  d="M 10 20 L 5 28.7 M 5 28.7 A 10 10 0 0 0 10 30 L 10 20"
+  fill={4291357333}
+  fillOpacity={1}
+  fillRule={1}
+  matrix={
+    Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ]
+  }
+  name="targetZone"
+  opacity={1}
+  originX={0}
+  originY={0}
+  propList={
+    Array [
+      "fill",
+    ]
+  }
+  rotation={0}
+  scaleX={1}
+  scaleY={1}
+  skewX={0}
+  skewY={0}
+  stroke={null}
+  strokeDasharray={null}
+  strokeDashoffset={null}
+  strokeLinecap={0}
+  strokeLinejoin={0}
+  strokeMiterlimit={4}
+  strokeOpacity={1}
+  strokeWidth={1}
+  vectorEffect={0}
+  x={0}
+  y={0}
+/>
+`;
+
+exports[`TargetZone Component renders correctly out of targetZone 1`] = `
+<RNSVGPath
+  d="M 10 20 L 5 28.7 M 5 28.7 A 10 10 0 0 0 10 30 L 10 20"
+  fill={4293783794}
+  fillOpacity={1}
+  fillRule={1}
+  matrix={
+    Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ]
+  }
+  name="targetZone"
+  opacity={1}
+  originX={0}
+  originY={0}
+  propList={
+    Array [
+      "fill",
+    ]
+  }
+  rotation={0}
+  scaleX={1}
+  scaleY={1}
+  skewX={0}
+  skewY={0}
+  stroke={null}
+  strokeDasharray={null}
+  strokeDashoffset={null}
+  strokeLinecap={0}
+  strokeLinejoin={0}
+  strokeMiterlimit={4}
+  strokeOpacity={1}
+  strokeWidth={1}
+  vectorEffect={0}
+  x={0}
+  y={0}
+/>
+`;

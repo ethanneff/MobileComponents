@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon Component renders correctly 1`] = `
+<View>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "hsl(199, 18%, 33%)",
+          "fontSize": 24,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Material Design Icons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;
+
+exports[`Icon Component renders correctly when hidden 1`] = `null`;
+
+exports[`Icon Component renders correctly with badge 1`] = `
+<View>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "hsl(84, 67%, 75%)",
+          "fontSize": 24,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Material Design Icons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderRadius": 20,
+        "height": 20,
+        "justifyContent": "center",
+        "position": "absolute",
+        "right": -10,
+        "top": -10,
+        "width": 20,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Regular",
+              "fontSize": 17,
+              "letterSpacing": 0,
+              "lineHeight": 24,
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            Object {
+              "color": "hsl(255, 100%, 100%)",
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      20
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Icon Component renders correctly with large badge 1`] = `
+<View>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "hsl(84, 67%, 75%)",
+          "fontSize": 24,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Material Design Icons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "hsl(179, 58%, 67%)",
+        "borderRadius": 20,
+        "height": 20,
+        "justifyContent": "center",
+        "position": "absolute",
+        "right": -10,
+        "top": -10,
+        "width": 20,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      style={
+        Array [
+          Array [
+            Object {
+              "color": "hsl(200, 19%, 18%)",
+              "fontFamily": "BrandonText-Regular",
+              "fontSize": 17,
+              "letterSpacing": 0,
+              "lineHeight": 24,
+            },
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            undefined,
+            Object {
+              "color": "hsl(255, 100%, 100%)",
+              "fontSize": 12,
+              "textAlign": "center",
+            },
+          ],
+          undefined,
+        ]
+      }
+      textBreakStrategy="simple"
+    >
+      !
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`Icon Component renders correctly without defaults 1`] = `
+<View>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "hsl(84, 67%, 75%)",
+          "fontSize": 1,
+        },
+        undefined,
+        Object {
+          "fontFamily": "Material Design Icons",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {},
+      ]
+    }
+  >
+    
+  </Text>
+</View>
+`;

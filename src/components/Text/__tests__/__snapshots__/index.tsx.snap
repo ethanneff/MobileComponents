@@ -1,0 +1,868 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Component renders as expected when hidden 1`] = `null`;
+
+exports[`Text Component renders as expected when invisible 1`] = `
+<Text
+  accessibilityLiveRegion="none"
+  accessible={false}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "color": "transparent",
+        },
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders body 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders bold 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        Object {
+          "fontFamily": "BrandonText-Bold",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders button 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Bold",
+          "fontSize": 15,
+          "letterSpacing": 0.5,
+          "lineHeight": 20,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders caption 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(199, 18%, 33%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 15,
+          "letterSpacing": 0,
+          "lineHeight": 20,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders centerVertically 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        Object {
+          "flex": 1,
+          "textAlignVertical": "center",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders centered 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        Object {
+          "textAlign": "center",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders clear 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "color": "hsl(255, 100%, 100%)",
+        },
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders ellipsis 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  numberOfLines={1}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders ellipsis numberOfLines 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  ellipsizeMode="tail"
+  numberOfLines={2}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders error 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(0, 65%, 51%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders h1 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Bold",
+          "fontSize": 36,
+          "letterSpacing": -0.1,
+          "lineHeight": 48,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders h2 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Bold",
+          "fontSize": 28,
+          "letterSpacing": 0.3,
+          "lineHeight": 36,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders h3 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Medium",
+          "fontSize": 22,
+          "letterSpacing": 0,
+          "lineHeight": 28,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders h4 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Medium",
+          "fontSize": 20,
+          "letterSpacing": 0,
+          "lineHeight": 28,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders h5 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Medium",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders incremental 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "hsl(200, 19%, 18%)",
+        "fontFamily": "BrandonText-Regular",
+        "fontSize": 17,
+        "letterSpacing": 0,
+        "lineHeight": 24,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  44
+</Text>
+`;
+
+exports[`Text Component renders incremental with props 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "hsl(200, 19%, 18%)",
+        "fontFamily": "BrandonText-Regular",
+        "fontSize": 17,
+        "letterSpacing": 0,
+        "lineHeight": 24,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  44
+</Text>
+`;
+
+exports[`Text Component renders link 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(176, 100%, 25%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders markdown 1`] = `
+<Text
+  style={
+    Array [
+      Object {
+        "color": "hsl(200, 19%, 18%)",
+        "fontFamily": "BrandonText-Regular",
+        "fontSize": 17,
+        "letterSpacing": 0,
+        "lineHeight": 24,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Regular",
+            "fontSize": 17,
+            "letterSpacing": 0,
+            "lineHeight": 24,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    normal 
+  </Text>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Regular",
+            "fontSize": 17,
+            "letterSpacing": 0,
+            "lineHeight": 24,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+        ],
+        Object {
+          "fontFamily": "BrandonText-Bold",
+        },
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    bold 
+  </Text>
+</Text>
+`;
+
+exports[`Text Component renders notBold 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "fontFamily": "BrandonText-Regular",
+        },
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders on mobile 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders on tablet 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders overline 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(199, 18%, 33%)",
+          "fontFamily": "BrandonText-Medium",
+          "fontSize": 14,
+          "letterSpacing": 1.5,
+          "lineHeight": 20,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  TEST
+</Text>
+`;
+
+exports[`Text Component renders tab 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(199, 18%, 33%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 14,
+          "letterSpacing": 0,
+          "lineHeight": 16,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  test
+</Text>
+`;
+
+exports[`Text Component renders uppercase 1`] = `
+<Text
+  accessible={true}
+  allowFontScaling={true}
+  style={
+    Array [
+      Array [
+        Object {
+          "color": "hsl(200, 19%, 18%)",
+          "fontFamily": "BrandonText-Regular",
+          "fontSize": 17,
+          "letterSpacing": 0,
+          "lineHeight": 24,
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+      ],
+      undefined,
+    ]
+  }
+  textBreakStrategy="simple"
+>
+  TEST
+</Text>
+`;
+
+exports[`Text Component renders uppercase without title 1`] = `null`;

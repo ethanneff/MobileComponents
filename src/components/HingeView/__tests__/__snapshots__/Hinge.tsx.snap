@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hinge Component renders correctly 1`] = `
+<RNSVGCircle
+  cx={10}
+  cy={20}
+  fill={4278190080}
+  fillOpacity={1}
+  fillRule={1}
+  matrix={
+    Array [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ]
+  }
+  name="hinge"
+  opacity={1}
+  originX={0}
+  originY={0}
+  propList={
+    Array [
+      "fill",
+      "stroke",
+      "strokeWidth",
+    ]
+  }
+  r={15}
+  rotation={0}
+  scaleX={1}
+  scaleY={1}
+  skewX={0}
+  skewY={0}
+  stroke={4278222848}
+  strokeDasharray={null}
+  strokeDashoffset={null}
+  strokeLinecap={0}
+  strokeLinejoin={0}
+  strokeMiterlimit={4}
+  strokeOpacity={1}
+  strokeWidth={10}
+  vectorEffect={0}
+  x={0}
+  y={0}
+/>
+`;

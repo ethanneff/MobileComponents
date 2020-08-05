@@ -1,0 +1,524 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading Component renders a button if a button title is provided 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <TouchableOpacity
+    accessibilityRole="button"
+    activeOpacity={0.2}
+    style={
+      Array [
+        Object {
+          "borderRadius": 6,
+          "justifyContent": "center",
+          "padding": 12,
+        },
+        undefined,
+        Object {
+          "backgroundColor": "hsl(179, 58%, 67%)",
+          "borderColor": "hsl(179, 58%, 67%)",
+        },
+        undefined,
+        undefined,
+        Object {
+          "alignSelf": "center",
+          "width": "80%",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "marginBottom": 12,
+        },
+      ]
+    }
+    testID="loadingButton"
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        style={
+          Array [
+            Array [
+              Object {
+                "color": "hsl(200, 19%, 18%)",
+                "fontFamily": "BrandonText-Bold",
+                "fontSize": 15,
+                "letterSpacing": 0.5,
+                "lineHeight": 20,
+              },
+              Object {
+                "textAlign": "center",
+              },
+              undefined,
+              Object {
+                "fontFamily": "BrandonText-Bold",
+              },
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+            ],
+            undefined,
+          ]
+        }
+        textBreakStrategy="simple"
+      >
+        SOME BUTTON TITLE
+      </Text>
+    </View>
+  </TouchableOpacity>
+</View>
+`;
+
+exports[`Loading Component renders a subtitle provided 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "padding": 12,
+        }
+      }
+    >
+      <View
+        testID="mockProgressBar"
+      >
+        <Text>
+          Mock Progress Bar
+        </Text>
+        <Text
+          testID="mockProgressBarProps"
+        >
+          {"animated":true,"testID":"loaderProgressBar","height":18,"width":450,"borderRadius":16,"borderColor":"hsl(198, 16%, 84%)","progress":0,"color":"hsl(179, 58%, 67%)"}
+        </Text>
+      </View>
+    </View>
+  </View>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(199, 18%, 33%)",
+            "fontFamily": "BrandonText-Regular",
+            "fontSize": 15,
+            "letterSpacing": 0,
+            "lineHeight": 20,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Object {
+            "paddingTop": 12,
+            "textAlign": "center",
+          },
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    Some subtitle
+  </Text>
+</View>
+`;
+
+exports[`Loading Component renders a title provided 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Medium",
+            "fontSize": 22,
+            "letterSpacing": 0,
+            "lineHeight": 28,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "paddingBottom": 12,
+              "textAlign": "center",
+            },
+            undefined,
+          ],
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    Some title
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "padding": 12,
+        }
+      }
+    >
+      <View
+        testID="mockProgressBar"
+      >
+        <Text>
+          Mock Progress Bar
+        </Text>
+        <Text
+          testID="mockProgressBarProps"
+        >
+          {"animated":true,"testID":"loaderProgressBar","height":18,"width":450,"borderRadius":16,"borderColor":"hsl(198, 16%, 84%)","progress":0,"color":"hsl(179, 58%, 67%)"}
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Loading Component renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "padding": 12,
+        }
+      }
+    >
+      <View
+        testID="mockProgressBar"
+      >
+        <Text>
+          Mock Progress Bar
+        </Text>
+        <Text
+          testID="mockProgressBarProps"
+        >
+          {"animated":true,"testID":"loaderProgressBar","height":18,"width":450,"borderRadius":16,"borderColor":"hsl(198, 16%, 84%)","progress":0,"color":"hsl(179, 58%, 67%)"}
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Loading Component renders nothing when hidden 1`] = `null`;
+
+exports[`Loading Component renders nothing when isLoaderHidden 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <TouchableOpacity
+    accessibilityRole="button"
+    activeOpacity={0.2}
+    style={
+      Array [
+        Object {
+          "borderRadius": 6,
+          "justifyContent": "center",
+          "padding": 12,
+        },
+        undefined,
+        Object {
+          "backgroundColor": "hsl(179, 58%, 67%)",
+          "borderColor": "hsl(179, 58%, 67%)",
+        },
+        undefined,
+        undefined,
+        Object {
+          "alignSelf": "center",
+          "width": "80%",
+        },
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {
+          "marginBottom": 12,
+        },
+      ]
+    }
+    testID="loadingButton"
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+            "justifyContent": "center",
+          },
+          undefined,
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        style={
+          Array [
+            Array [
+              Object {
+                "color": "hsl(200, 19%, 18%)",
+                "fontFamily": "BrandonText-Bold",
+                "fontSize": 15,
+                "letterSpacing": 0.5,
+                "lineHeight": 20,
+              },
+              Object {
+                "textAlign": "center",
+              },
+              undefined,
+              Object {
+                "fontFamily": "BrandonText-Bold",
+              },
+              undefined,
+              undefined,
+              undefined,
+              undefined,
+            ],
+            undefined,
+          ]
+        }
+        textBreakStrategy="simple"
+      >
+        SOME BUTTON TITLE
+      </Text>
+    </View>
+  </TouchableOpacity>
+</View>
+`;
+
+exports[`Loading Component when set as determinate renders as expected 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "padding": 12,
+        }
+      }
+    >
+      <View
+        testID="mockProgressBar"
+      >
+        <Text>
+          Mock Progress Bar
+        </Text>
+        <Text
+          testID="mockProgressBarProps"
+        >
+          {"animated":true,"testID":"loaderProgressBar","height":18,"width":450,"borderRadius":16,"borderColor":"hsl(198, 16%, 84%)","progress":0,"color":"hsl(179, 58%, 67%)","indeterminate":false}
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Loading Component when set as indeterminate renders as expected 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "padding": 12,
+        }
+      }
+    >
+      <View
+        testID="mockProgressBar"
+      >
+        <Text>
+          Mock Progress Bar
+        </Text>
+        <Text
+          testID="mockProgressBarProps"
+        >
+          {"animated":true,"testID":"loaderProgressBar","height":18,"width":450,"borderRadius":16,"borderColor":"hsl(198, 16%, 84%)","progress":0,"color":"hsl(179, 58%, 67%)","indeterminate":true}
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Loading Component when the loader is set as hidden renders as expected 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+    ]
+  }
+/>
+`;

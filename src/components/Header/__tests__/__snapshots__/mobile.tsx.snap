@@ -1,0 +1,395 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component renders correctly caption 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 20,
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(199, 18%, 33%)",
+            "fontFamily": "BrandonText-Regular",
+            "fontSize": 15,
+            "letterSpacing": 0,
+            "lineHeight": 20,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "textAlign": "center",
+            },
+            Object {
+              "paddingBottom": 8,
+            },
+            undefined,
+          ],
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    I am a Header
+  </Text>
+</View>
+`;
+
+exports[`Header Component renders correctly flexible 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 20,
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      Object {
+        "flex": 1,
+        "paddingBottom": 0,
+        "paddingTop": 20,
+      },
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Bold",
+            "fontSize": 36,
+            "letterSpacing": -0.1,
+            "lineHeight": 48,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "textAlign": "center",
+            },
+            Object {
+              "paddingBottom": 8,
+            },
+            undefined,
+          ],
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    I am a Header
+  </Text>
+</View>
+`;
+
+exports[`Header Component renders correctly h1 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 20,
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Bold",
+            "fontSize": 36,
+            "letterSpacing": -0.1,
+            "lineHeight": 48,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "textAlign": "center",
+            },
+            Object {
+              "paddingBottom": 8,
+            },
+            undefined,
+          ],
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    I am a Header
+  </Text>
+</View>
+`;
+
+exports[`Header Component renders correctly h2 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 20,
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Bold",
+            "fontSize": 28,
+            "letterSpacing": 0.3,
+            "lineHeight": 36,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "textAlign": "center",
+            },
+            Object {
+              "paddingBottom": 8,
+            },
+            undefined,
+          ],
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    I am a Header
+  </Text>
+</View>
+`;
+
+exports[`Header Component renders correctly h3 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 20,
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Medium",
+            "fontSize": 22,
+            "letterSpacing": 0,
+            "lineHeight": 28,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "textAlign": "center",
+            },
+            Object {
+              "paddingBottom": 8,
+            },
+            undefined,
+          ],
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    I am a Header
+  </Text>
+</View>
+`;
+
+exports[`Header Component renders correctly notCentered 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 20,
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(200, 19%, 18%)",
+            "fontFamily": "BrandonText-Bold",
+            "fontSize": 36,
+            "letterSpacing": -0.1,
+            "lineHeight": 48,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            undefined,
+            Object {
+              "paddingBottom": 8,
+            },
+            undefined,
+          ],
+        ],
+        undefined,
+      ]
+    }
+    textBreakStrategy="simple"
+  >
+    I am a Header
+  </Text>
+</View>
+`;
+
+exports[`Header Component renders correctly overline 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "paddingBottom": 20,
+        "paddingHorizontal": 30,
+        "paddingTop": 5,
+      },
+      undefined,
+      undefined,
+      undefined,
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    style={
+      Array [
+        Array [
+          Object {
+            "color": "hsl(199, 18%, 33%)",
+            "fontFamily": "BrandonText-Medium",
+            "fontSize": 14,
+            "letterSpacing": 1.5,
+            "lineHeight": 20,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Array [
+            Object {
+              "textAlign": "center",
+            },
+            Object {
+              "paddingBottom": 8,
+            },
+          ],
+        ],
+        undefined,
+      ]
+    }
+    testID="undefined-overline"
+    textBreakStrategy="simple"
+  >
+    I AM A HEADER
+  </Text>
+</View>
+`;

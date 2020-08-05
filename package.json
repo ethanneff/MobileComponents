@@ -1,0 +1,32 @@
+{
+  "name": "hinge-health-mobile-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Extrct/react-native-stars.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "ios",
+    "android",
+    "star",
+    "stars",
+    "reviews",
+    "star-review",
+    "star-reviews"
+  ],
+  "author": "Hinge Health",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.0.5",
+    "react-native": "^0.63.2",
+    "react": "^16.13.1"
+  },
+  "dependencies": {
+    "react-native-device-detection": "^0.2.1"
+  }
+}
