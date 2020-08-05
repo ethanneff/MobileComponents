@@ -1,4 +1,6 @@
-import { isTablet } from "react-native-device-detection";
+import Device from "react-native-device-detection";
+
+const isTablet = Device.isTablet;
 
 const padding = {
   p0: 0,

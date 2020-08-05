@@ -1,7 +1,9 @@
 import React, { memo } from "react";
 import { StyleSheet, View, ViewStyle } from "react-native";
-import { isTablet } from "react-native-device-detection";
 import Theme, { colorWithOpacity } from "../../commons/Theme";
+import Device from "react-native-device-detection";
+
+const isTablet = Device.isTablet;
 
 interface Props {
   color: string;
